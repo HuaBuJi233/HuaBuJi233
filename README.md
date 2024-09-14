@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HuaBuJi233
+- 👋 Hi, I’m @HuaBuJi233    
 - 👀 I’m interested in: Games
 - 🌱 I’m currently learning: C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m studying in here ...
 - 📫 How to reach me: 2237548076@qq.com
 
 <!---
